@@ -1,4 +1,4 @@
-package com.example.listviewprectice_20220727
+package com.example.listviewprectice_20220727.datas
 
 class StudentData (
     val name : String,
